@@ -1,4 +1,3 @@
-package cmp168;
 import java.util.Random;
 //https://www.youtube.com/watch?v=Ak5EJgb0sQM
 public class PromptBank {
