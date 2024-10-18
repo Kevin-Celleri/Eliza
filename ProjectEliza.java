@@ -1,4 +1,3 @@
-package cmp168;
 import java.util.Scanner;
 
 //https://www.youtube.com/watch?v=RJzcjZRWYZU
