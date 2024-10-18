@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //https://www.youtube.com/watch?v=RJzcjZRWYZU
 public class ProjectEliza {
 
